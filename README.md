@@ -53,9 +53,7 @@ An open-source initiative focused on releasing free datasets, public-domain mode
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Personal Portfolio** | Main hub showcasing portfolio projects, logs, and contact links | Web Technologies | [prowiddan.me](https://prowiddan.me) |
-| **EduDev Infrastructure** | Open-source data pipelines and public model integrations | Python, Open Data | [Repo](https://github.com/prowiddan) |
-| **Hardware & Microcontroller Labs** | Custom embedded software projects and hardware prototypes | C++, Python | [Repo](https://github.com/prowiddan) |
-| **Security Labs & Scripts** | Network security exercises, scripting, and tooling experiments | Python, Bash | [Repo](https://github.com/prowiddan) |
+| **EduDev Infrastructure** | Open-source data pipelines and public model integrations | Python, Open Data | [Hugging Face](https://huggingface.co/EduDevCommons) |
 
 ---
 
