@@ -61,8 +61,12 @@ An open-source initiative focused on releasing free datasets, public-domain mode
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prowiddan&show_icons=false&theme=dark&hide_border=true&count_private=true" alt="Sujayram's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prowiddan&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prowiddan&show_icons=false&theme=dark&hide_border=true&count_private=true" alt="Sujayram's GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prowiddan&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" width="48%" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prowiddan&theme=react-dark&hide_border=true" alt="Contribution Graph" width="97%" />
 
 </div>
 
