@@ -11,13 +11,13 @@
 
 ## Overview
 
-I am a developer and cybersecurity enthusiast with a focus on open-source infrastructure, hardware integration, and full-stack development[cite: 1]. As the Co-Founder of EduDev Commons, I build public-domain models, open datasets, and accessible digital tools for developers, researchers, and educators globally[cite: 1].
+I am a developer and cybersecurity enthusiast with a focus on open-source infrastructure, hardware integration, and full-stack development. As the Co-Founder of EduDev Commons, I build public-domain models, open datasets, and accessible digital tools for developers, researchers, and educators globally.
 
-- **Current Focus:** Building open educational infrastructure and open-source developer tools at EduDev Commons[cite: 1].
+- **Current Focus:** Building open educational infrastructure and open-source developer tools at EduDev Commons.
 - **Personal Site:** Check out my work, writing, and updates at [prowiddan.me](https://prowiddan.me).
-- **Interests:** Cybersecurity, hardware-software integration, system design, and open datasets[cite: 1].
-- **Background:** High school student (PCMB) based in Muscat, Oman, passionate about computer science and embedded systems[cite: 1].
-- **Contact:** sujayramprasad@gmail.com[cite: 1]
+- **Interests:** Cybersecurity, hardware-software integration, system design, and open datasets.
+- **Background:** High school student (PCMB) based in Muscat, Oman, passionate about computer science and embedded systems.
+- **Contact:** sujayramprasad@gmail.com
 
 ---
 
@@ -46,8 +46,8 @@ I am a developer and cybersecurity enthusiast with a focus on open-source infras
 ## Leadership & Projects
 
 ### EduDev Commons
-**Co-Founder** | *July 2026 – Present*[cite: 1]
-An open-source initiative focused on releasing free datasets, public-domain models, and open educational applications to make learning tools universally accessible[cite: 1].
+**Co-Founder** | *July 2026 – Present*
+An open-source initiative focused on releasing free datasets, public-domain models, and open educational applications to make learning tools universally accessible.
 
 ### Featured Projects
 | Project | Description | Tech Stack | Link |
