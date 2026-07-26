@@ -3,7 +3,7 @@
 # Sujayram Prasad
 ### Co-Founder @ EduDev Commons | Cybersecurity Enthusiast & Developer
 
-[LinkedIn](https://www.linkedin.com/in/sujayram-prasad/) • [Email](mailto:sujayramprasad@gmail.com) • [GitHub](https://github.com/prowiddan)
+[Website](https://prowiddan.me) • [LinkedIn](https://www.linkedin.com/in/sujayram-prasad/) • [Email](mailto:sujayramprasad@gmail.com) • [GitHub](https://github.com/prowiddan)
 
 ---
 
@@ -11,12 +11,13 @@
 
 ## Overview
 
-I am a developer and cybersecurity enthusiast with a focus on open-source infrastructure, hardware integration, and full-stack development. As the Co-Founder of EduDev Commons, I build public-domain models, open datasets, and accessible digital tools for developers, researchers, and educators globally.
+I am a developer and cybersecurity enthusiast with a focus on open-source infrastructure, hardware integration, and full-stack development[cite: 1]. As the Co-Founder of EduDev Commons, I build public-domain models, open datasets, and accessible digital tools for developers, researchers, and educators globally[cite: 1].
 
-- **Current Focus:** Building open educational infrastructure and open-source developer tools at EduDev Commons.
-- **Interests:** Cybersecurity, hardware-software integration, system design, and open datasets.
-- **Background:** High school student (PCMB) based in Muscat, Oman, passionate about computer science and embedded systems.
-- **Contact:** sujayramprasad@gmail.com
+- **Current Focus:** Building open educational infrastructure and open-source developer tools at EduDev Commons[cite: 1].
+- **Personal Site:** Check out my work, writing, and updates at [prowiddan.me](https://prowiddan.me).
+- **Interests:** Cybersecurity, hardware-software integration, system design, and open datasets[cite: 1].
+- **Background:** High school student (PCMB) based in Muscat, Oman, passionate about computer science and embedded systems[cite: 1].
+- **Contact:** sujayramprasad@gmail.com[cite: 1]
 
 ---
 
@@ -35,7 +36,7 @@ I am a developer and cybersecurity enthusiast with a focus on open-source infras
 ### Frameworks, Security & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
@@ -45,12 +46,13 @@ I am a developer and cybersecurity enthusiast with a focus on open-source infras
 ## Leadership & Projects
 
 ### EduDev Commons
-**Co-Founder** | *July 2026 – Present*
-An open-source initiative focused on releasing free datasets, public-domain models, and open educational applications to make learning tools universally accessible.
+**Co-Founder** | *July 2026 – Present*[cite: 1]
+An open-source initiative focused on releasing free datasets, public-domain models, and open educational applications to make learning tools universally accessible[cite: 1].
 
-### Featured Repositories
+### Featured Projects
 | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
+| **Personal Portfolio** | Main hub showcasing portfolio projects, logs, and contact links | Web Technologies | [prowiddan.me](https://prowiddan.me) |
 | **EduDev Infrastructure** | Open-source data pipelines and public model integrations | Python, Open Data | [Repo](https://github.com/prowiddan) |
 | **Hardware & Microcontroller Labs** | Custom embedded software projects and hardware prototypes | C++, Python | [Repo](https://github.com/prowiddan) |
 | **Security Labs & Scripts** | Network security exercises, scripting, and tooling experiments | Python, Bash | [Repo](https://github.com/prowiddan) |
